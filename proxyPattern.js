@@ -1,3 +1,6 @@
+/* The Proxy Pattern provides a surrogate or placeholder object 
+for another object and controls access to this other object.*/
+
 // API
 function DataAPI() {
   this.getValue = function(data) {

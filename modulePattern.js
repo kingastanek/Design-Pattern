@@ -1,3 +1,7 @@
+/* The Module Pattern is a construct somewhat similar to a singleton class.
+It has only one instance and exposes its members, but it doesn’t have any kind of internal state. 
+Module is created as an IIFE (Immediately Invoked Function Expression) with a function inside. */
+
 var Exposer = (function() {
   var privateVariable = 10;
 

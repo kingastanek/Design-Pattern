@@ -1,3 +1,5 @@
+// The Iterator Pattern allows clients to effectively loop over a collection of objects
+
 const array = ['hello', 5, false, 3.14];
 
 function Iterator(array) {

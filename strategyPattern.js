@@ -1,3 +1,7 @@
+/* The Strategy Pattern encapsulates alternative algorithms (or strategies) for a particular task.
+It allows a method to be swapped out at runtime by any other method (strategy) without the client
+realizing it. Essentially, Strategy is a group of algorithms that are interchangeable. */
+
 function Company1() {
   this.calculate = (package) => {
     //company1 calculations...

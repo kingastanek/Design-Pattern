@@ -1,3 +1,6 @@
+/* The Factory Pattern is a type of Object Oriented pattern which follows the DRY methodology.
+Object instances are created by using a factory to make the required object for us. */
+
 function Developer(name) {
   this.name = name,
   this.type = "Developer"
