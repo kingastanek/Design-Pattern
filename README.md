@@ -1,0 +1,11 @@
+Javascript Design Patterns
+* Factory Pattern
+* Visitor Pattern
+* Interator Pattern
+* Mediator Pattern
+* Module Pattern
+* Observer Pattern
+* Prototype Pattern
+* Proxy Pattern
+* Singleton Pattern
+* Strategy Pattern
